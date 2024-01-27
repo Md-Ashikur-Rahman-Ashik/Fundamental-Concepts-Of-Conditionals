@@ -25,4 +25,7 @@
 //     console.log("Reached home, went to sleep and became sad");
 // }
 
-// Fifth task
+let result = 10 < "5";
+// console.log(result);
+
+console.log(6 != 6);
